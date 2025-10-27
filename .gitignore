@@ -1,1 +1,2 @@
-Name.cpp
+*.cpp
+!Name.cpp
